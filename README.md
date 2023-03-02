@@ -1,3 +1,5 @@
+https://medium.com/strategio/using-terraform-to-create-aws-vpc-ec2-and-rds-instances-c7f3aa416133
+
 # Terraform Configuration for AWS VPC, EC2 and RDS
 
 ### This project contains terraform configuration files on creating EC2 and RDS instances inside a Custom VPC on AWS. Here is the architecture of what will be created:
